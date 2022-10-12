@@ -1,2 +1,0 @@
-# start-ec2-aws-instance-
-Boto3 python code to start an ec2 instance using the lambda function
